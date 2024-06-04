@@ -83,6 +83,20 @@
       "url": "https://www.youtube.com/embed/mwNfWRsDDWE",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": " Aprendiendo a utilizar Figma #AluraTips ",
+      "descripcion": "8 mil visualizaciones",
+      "url": "https://www.youtube.com/embed/Y_6R3XTA2go",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "id": "bf6f",
+      "titulo": "JavaScript - Ejercicio 307: Realizar una Solicitud Tipo GET usando la API Fetch",
+      "descripcion": "NaN mil visualizaciones",
+      "url": "https://www.youtube.com/embed/KdDYeCs7VxI",
+      "imagen": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
     }
   ]
 }
